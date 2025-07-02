@@ -11,6 +11,10 @@ A Blender addon that converts 3D objects into voxel-style cube meshes — frame-
 - Assigns any Blender material to the voxel mesh
 - Single `.py` script, no external dependencies
 
+## Requirements
+
+- **Blender 4.2.4 LTS** (or later)
+
 ## Usage
 
 1. Download `voxel_addon.py` from this repository
